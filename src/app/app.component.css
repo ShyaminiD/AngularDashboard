@@ -1,0 +1,11 @@
+body{ 
+    height:100%;
+    display: flex;
+    position: absolute;
+}
+
+.app-sidebar{
+    position: relative;
+  top: 0px;
+  z-index: 1201;
+}
